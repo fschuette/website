@@ -16,16 +16,16 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Data preprocessing, stimulus generation, statistics
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: E.g. (mixed) regression modelling
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: Data pre-processing (EEG with EEGLAB, pupil data)
-  name: Matlab
+- description: EEG (ERPs), behavioral testing, eye-tracking/pupillometry, language screenings
+  name: Methods
+- description: PsychToolBox, E-Prime, Experiment Builder
+  name: Experimental stimulus presentation
+- description: IBM SPSS Statistics, JASP
+  name: Statistical software
+- description: R (experimental data pre-processing & analyses, using e.g., mixed regression models), Matlab (stimulus presentation & data processing for eye-tracking and EEG experiments)
+  name: Programming
+- description: English (fluent), Spanish (fair), Swedish (beginner), German Sign Language (beginner)
+  name: Languages
 - description: E.g. ricotta, paneer, mozzarella
   name: Cheese making
 

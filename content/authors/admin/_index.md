@@ -15,13 +15,13 @@ education:
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Psycholinguistics
+- Event-related potentials
+- Sentence comprehension
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Cognitive Neuroscience lab, University of Potsdam
+  url: https://www.uni-potsdam.de/de/cogneuro/index
+role: PhD student
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,21 +31,21 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/LinguaFriede
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.de/citations?user=rlUZlQ8AAAAJ&hl=de
+- icon: fa-researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Friederike-Schuette
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/fschuette
 superuser: true
-title: Nelson Bighetti
+title: Friederike Schütte
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lorem ipsum.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 

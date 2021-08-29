@@ -14,7 +14,7 @@ projects:
 - internal-project
 summary: An example talk using Wowchemy's Markdown slides feature.
 tags: []
-title: Production and comprehension of translation equivalents in 24 months old bilingual toddlers: An investigation on the basis of M-CDI and FRAKIS data
+title: Production and comprehension of translation equivalents in 24 months old bilingual toddlers - An investigation on the basis of M-CDI and FRAKIS data
 url_code: ""
 url_pdf: ""
 url_slides: ""

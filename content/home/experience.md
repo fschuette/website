@@ -28,14 +28,14 @@ experience:
     location: Potsdam, Germany
     date_start: '2020-08-01'
     date_end: []
-    description: For details on my current work, see Projects. Advisers: Milena Rabovsky, Mathias Weymar, and Isabell Wartenburger.
+    description: For details on my current work, see Projects. Supervised by Milena Rabovsky, Mathias Weymar, and Isabell Wartenburger.
 
   - title: PhD Student & Research Associate
     company: Cognitive Development lab, University of Göttingen
     location: Göttingen, Germany
     date_start: '2018-10-01'
     date_end: '2020-07-31'
-    description: Conducted behavioral experiments on children's early word learning. Specifically, the project focused on how children learn selectively from reliable rather than unreliable speakers (see Schütte, Mani, & Behne, 2020). Advisers: Tanya Behne & Nivedita Mani.
+    description: Conducted behavioral experiments on children's early word learning. Specifically, the project focused on how children learn selectively from reliable rather than unreliable speakers (see Schütte, Mani, & Behne, 2020). Supervised by Tanya Behne & Nivedita Mani.
         
   - title: Research Associate
     company: Department of Cognitive and Instructional Psychology, University of Erfurt
@@ -55,7 +55,7 @@ experience:
         * Preprocessing of longitudinal bilingual language acquisition data (children, M-CDI and FRAKIS)
         * Assistance in conference organization (Harmonious Bilingual Network Colloquium, La Hulpe, Belgium, May 24-26, 2018)
         * Analysing longitudinal data: Development of production and comprehension of translation equivalents in 24 months old bilingual toddlers
-        * Supervision: Annick De Houwer
+        * Supervised by Annick De Houwer
     
   - title: Research Assistant
     company: Department of Cognitive and Instructional Psychology, University of Erfurt
@@ -68,21 +68,21 @@ experience:
         * Behavioral testing of verbal working memory studies
         * Assistance in creating experimental stimuli
         * (Behavioral) data processing
-        * Supervision: Ralf Rummer & Judith Schweppe
+        * Supervised by Ralf Rummer & Judith Schweppe
         
   - title: Research Trainee
     company: Max Planck Institute for Psycholinguistics
     location: Nijmegen, The Netherlands
     date_start: '2017-04-01'
     date_end: '2017-06-30'
-    description: Designed & conducted a study on how perspective-taking influences language comprehension. Supervision: Shiri Lev-Ari.
+    description: Designed & conducted a study on how perspective-taking influences language comprehension. Supervised by Shiri Lev-Ari.
     
   - title: Visiting Researcher
     company: Max Planck Institute for Human Cognitive and Brain Sciences
     location: Leipzig, Germany
     date_start: '2014-08-01'
     date_end: '2015-05-31'
-    description: Designed & conducted an experiment investigating how musical "semantics" support novel word learning (see Fritz et al., 2019). Supervision: Tom Fritz.
+    description: Designed & conducted an experiment investigating how musical "semantics" support novel word learning (see Fritz et al., 2019). Supervised by Tom Fritz.
     
   - title: Student Assistant
     company: Department of Pragmatics and Contrastive Linguistics, European University Viadrina
@@ -95,7 +95,7 @@ experience:
         * Teaching assistance in linguistics seminars (e.g., "Applied Linguistics")
         * Assistance in organizing the third Conference of the German Association of Applied Linguistics (GAL), Frankfurt (Oder) / Słubice, Germany (September 23-25, 2015)
         * Assistance in proof-reading the "Manual of Deixis in Romance Languages" (2015, De Gruyter)
-        * Supervision: Peter Rosenberg & Konstanze Jungbluth
+        * Supervised by Peter Rosenberg & Konstanze Jungbluth
         
   - title: Tutor
     company: European University Viadrina

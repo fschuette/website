@@ -27,7 +27,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: Syntax, morphosyntax, and serial recall: How language supports short-term memory
+title: "Syntax, morphosyntax, and serial recall: How language supports short-term memory"
 url_code: "https://osf.io/r6x4v/"
 url_dataset: "https://osf.io/r6x4v/"
 url_pdf: https://link.springer.com/content/pdf/10.3758/s13421-021-01203-z.pdf

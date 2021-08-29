@@ -20,8 +20,5 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Source Themes
 title: "Musical meaning modulates word acquisition"
-url_code: "https://osf.io/bqhrx/"
-url_dataset: "https://osf.io/bqhrx/"
-url_pdf: https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.191451
 ---
 

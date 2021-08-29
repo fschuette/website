@@ -8,18 +8,18 @@ education:
   - course: B.A. in Cultural Studies and Sciences
     institution: European University Viadrina, Frankfurt (Oder), Germany
     year: 2015
-  - course: Erasmus semester at the Faculty of Arts and Communication
+  - course: Erasmus Semester at the Faculty of Arts and Communication
     institution: Malmö Högskola, Malmö, Sweden
     year: 2013
 email: ""
 highlight_name: false
 interests:
-- Psycholinguistics
-- Event-related potentials
+- Neurocognition of language & meaning
 - Sentence comprehension
+- Event-related potentials
 - Verbal working memory
 organizations:
-- name: Cognitive Neuroscience lab, University of Potsdam
+- name: Cognitive Neuroscience Lab, University of Potsdam
   url: https://www.uni-potsdam.de/de/cogneuro/index
 role: PhD student
 social:
@@ -45,6 +45,6 @@ superuser: true
 title: Friederike Schütte
 ---
 
-I am interested in the question of how language is deeply intertwined with other aspects of human cognition. This question goes in both directions: How do other phenomena, like verbal memory, inherently rely on linguistic representations? At the same time: How do language comprehension and production rely upon on and exploit other cognitive processes, such as attention and executive control?
+I am curious about how language is intertwined with other aspects of human cognition. This question goes in both directions: How do other phenomena, like verbal memory, inherently rely on linguistic representations? And at the same time: How do language comprehension and production rely upon on and exploit other cognitive processes, such as attention and executive control?
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.

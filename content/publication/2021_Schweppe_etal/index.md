@@ -6,7 +6,7 @@ author_notes:
 - Joint first authorship
 authors:
 - Judith Schweppe
-- **admin**
+- admin
 - Franziska Machleb
 - Marie Hellfritsch
 date: "2021"

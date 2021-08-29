@@ -22,27 +22,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD student & research associate
+
+  - title: PhD Student & Research Associate
+    company: Cognitive Neuroscience lab, University of Potsdam
+    location: Potsdam, Germany
+    date_start: '2020-08-01'
+    date_end: []
+
+  - title: PhD Student & Research Associate
     company: Cognitive Development lab, University of Göttingen
     location: Göttingen, Germany
     date_start: '2018-10-01'
     date_end: '2020-07-31'
-    description: Conducted behavioral experiments on children's early word learning. Specifically, the project focused on how children learn selectively from reliable rather than unreliable speakers. 
-
+    description: Conducted behavioral experiments on children's early word learning. Specifically, the project focused on how children learn selectively from reliable rather than unreliable speakers (see Schütte, Mani, & Behne, 2020). 
         
-  - title: Research associate
+  - title: Research Associate
     company: Department of Cognitive and Instructional Psychology, University Erfurt
-    company_url: ''
-    company_logo: org-x
     location: Erfurt, Germany
-    date_start: '2018-06-15'
+    date_start: '2018-07-01'
     date_end: '2018-09-30'
-    description: Continued working on series of experiments on role of linguistic long-term representations on verbal short-term memory (see recent publication by Schweppe, Schütte et al. (2021)) 
+    description: Finished an experimental series on the role of linguistic long-term representations on verbal short-term memory (see recent publication by Schweppe, Schütte et al., 2021)
     
-  - title: Research assistant
+  - title: Research Assistant
+    company: Department of Language Acquisition and Multilingualism, University Erfurt
+    location: Erfurt, Germany
+    date_start: '2017-07-01'
+    date_end: '2018-03-30'
+    description: |2-
+        Responsibilities included:
+        
+        * Preprocessing of longitudinal bilingual language acquisition data (children, M-CDI and FRAKIS)
+        * Assistance in conference organization (Harmonious Bilingual Network Colloquium, La Hulpe, Belgium, May 24-26, 2018)
+        * Analysing longitudinal data: Development of production and comprehension of translation equivalents in 24 months old bilingual toddlers
+    
+  - title: Research Assistant
     company: Department of Cognitive and Instructional Psychology, University Erfurt
-    company_url: ''
-    company_logo: org-x
     location: Erfurt, Germany
     date_start: '2016-02-01'
     date_end: '2018-05-31'
@@ -52,7 +66,40 @@ experience:
         * Behavioral testing of verbal working memory studies
         * Assistance in creating experimental stimuli
         * (Behavioral) data processing
-
+        
+  - title: Research Trainee
+    company: Max Planck Institute for Psycholinguistics
+    location: Nijmegen, The Netherlands
+    date_start: '2017-04-01'
+    date_end: '2017-06-30'
+    description: Designed & conducted a study on how perspective-taking influences language comprehension.
+    
+  - title: Visiting Researcher
+    company: Max Planck Institute for Human Cognitive and Brain Sciences
+    location: Leipzig, Germany
+    date_start: '2014-08-01'
+    date_end: '2015-05-31'
+    description: Designed & conducted an experiment investigating how musical "semantics" support novel word learning (see Fritz et al., 2019)
+    
+  - title: Student Assistant
+    company: Department of Pragmatics and Contrastive Linguistics, European University Viadrina
+    location: Frankfurt (Oder), Germany
+    date_start: '2013-10-01'
+    date_end: '2015-09-30'
+    description: |2-
+        Responsibilities included:
+        
+        * Teaching assistance in linguistics seminars (e.g., "Applied Linguistics")
+        * Assistance in organizing the third Conference of the German Association of Applied Linguistics (GAL), Frankfurt (Oder) / Słubice, Germany (September 23-25, 2015)
+        * Assistance in proof-reading the "Manual of Deixis in Romance Languages" (2015, De Gruyter)
+        
+  - title: Tutor
+    company: European University Viadrina
+    location: Frankfurt (Oder), Germany
+    date_start: '2012-04-01'
+    date_end: '2015-09-30'
+    description: Lead 1-2 tutoring groups (seminars) per semester, accompanying the "Introduction to Linguistics". Tutoring included discussing the readings, giving talks on background literature, and evaluating essays and student presentations.
+        
 design:
   columns: '2'
 ---

@@ -2,8 +2,8 @@
 abstract: (see PDF)
 
 author_notes:
-- Joined first authorship
-- Joined first authorship
+- Joint first authorship
+- Joint first authorship
 authors:
 - Judith Schweppe
 - admin

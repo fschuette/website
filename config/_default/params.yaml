@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: forest
+theme: ocean
 day_night: true
 font: ''
 font_size: L
@@ -25,27 +25,17 @@ twitter: ''
 address:
   street: Karl-Liebknecht-Str. 24/25
   city: Potsdam
-  #region: CA
   postcode: '14476'
   country: Germany
   country_code: Germany
 coordinates:
   latitude: '52.407522'
   longitude: '12.974040'
-#directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-# office_hours:
-#   - 'Monday 10:00 to 13:00'
-#   - 'Wednesday 09:00 to 10:00'
-#appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/LinguaFriede'
-  # - icon: skype
-  #   icon_pack: fab
-  #   name: Skype Me
-  #   link: 'skype:echo123?call'
 
 # Site header
 

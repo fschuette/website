@@ -28,7 +28,7 @@ experience:
     location: Potsdam, Germany
     date_start: '2020-08-01'
     date_end: []
-    description: For details on my current work, see "Projects". Advisers: Milena Rabovsky, Mathias Weymar, and Isabell Wartenburger.
+    description: For details on my current work, see Projects. Advisers: Milena Rabovsky, Mathias Weymar, and Isabell Wartenburger.
 
   - title: PhD Student & Research Associate
     company: Cognitive Development lab, University of Göttingen

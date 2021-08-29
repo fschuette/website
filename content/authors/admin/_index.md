@@ -8,6 +8,9 @@ education:
   - course: B.A. in Cultural Studies and Sciences
     institution: European University Viadrina, Frankfurt (Oder), Germany
     year: 2015
+  - course: Erasmus semester at the Faculty of Arts and Communication
+    institution: Malmö Högskola, Malmö, Sweden
+    year: 2013
 email: ""
 highlight_name: false
 interests:

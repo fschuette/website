@@ -20,14 +20,14 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: E.g. (mixed) regression modelling
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: EEG pre-processing with EEGLAB
+  name: Matlab
+- description: Cheese making
+  name: E.g. ricotta, paneer, mozzarella
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'

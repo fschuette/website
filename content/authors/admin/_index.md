@@ -42,8 +42,6 @@ superuser: true
 title: Friederike Schütte
 ---
 
-Lorem ipsum.
+I am interested in the question of how language is deeply intertwined with other aspects of human cognition. This question goes in both directions: How do other phenomena, like verbal memory, inherently rely on linguistic representations? At the same time: How do language comprehension and production rely upon on and exploit other cognitive processes, such as attention and executive control?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.

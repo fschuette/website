@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: Data preprocessing, stimulus generation, statistics
   icon: r-project
   icon_pack: fab
   name: R
@@ -24,10 +24,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: EEG pre-processing with EEGLAB
+- description: Data pre-processing (EEG with EEGLAB, pupil data)
   name: Matlab
-- description: Cheese making
-  name: E.g. ricotta, paneer, mozzarella
+- description: E.g. ricotta, paneer, mozzarella
+  name: Cheese making
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'

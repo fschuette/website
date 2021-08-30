@@ -15,6 +15,6 @@ authors:
 location: 9th European Working Memory Symposium (Pavia, Italy)
 
 summary: Poster presentation
-title: Immediate serial recall at the transition from unrelated word lists to sentences. 
+title: Immediate serial recall at the transition from unrelated word lists to sentences
 
 ---

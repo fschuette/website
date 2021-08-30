@@ -14,6 +14,6 @@ authors:
 location: 10th European Working Memory Symposium (Cardiff, United Kingdom / virtual)
 
 summary: Talk
-title: Syntax, morphosyntax, and serial recall: How language supports short-term memory for order
+title: Syntax, morphosyntax, and serial recall - How language supports short-term memory for order
 
 ---

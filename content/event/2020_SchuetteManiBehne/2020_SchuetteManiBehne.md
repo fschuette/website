@@ -14,6 +14,6 @@ authors:
 location: Budapest CEU Conference on Cognitive Development (Budapest, Hungary)
 
 summary: Poster presentation
-title: Preschoolers Make Retrospective Inferences in Their Selective Trust Choices
+title: Now I know who was right before! When learning from others, preschoolers consider subsequent cues of informant reliability
 
 ---

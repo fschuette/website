@@ -41,6 +41,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/fschuette
+- icon: fa-orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-1771-8399
 superuser: true
 title: Friederike Schütte
 ---

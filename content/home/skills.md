@@ -19,14 +19,14 @@ feature:
 - description: EEG (ERPs), behavioral testing, eye-tracking/pupillometry, language screenings
   name: Methods
 - description: PsychToolBox, E-Prime, Experiment Builder
-  name: Experimental stimulus presentation
+  name: Exp. stimulus presentation
 - description: IBM SPSS Statistics, JASP
   name: Statistical software
 - description: R (experimental data pre-processing & analyses, using e.g., mixed regression models), Matlab (stimulus presentation & data processing for eye-tracking and EEG experiments)
   name: Programming
-- description: English (fluent), Spanish (fair), Swedish (beginner), German Sign Language (beginner)
+- description: English (fluent), German (native), Spanish (fair), Swedish (beginner), German Sign Language (beginner)
   name: Languages
-- description: E.g. ricotta, paneer, mozzarella
+- description: E.g., Ricotta, paneer, mozzarella
   name: Cheese making
 
 # Uncomment to use emoji icons.

@@ -19,7 +19,8 @@ description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
-
+email: []
+phone: []
 address:
   street: Karl-Liebknecht-Str. 24/25
   city: Potsdam
@@ -29,6 +30,9 @@ address:
 coordinates:
   latitude: '52.407522'
   longitude: '12.974040'
+directions: []
+office_hours: []
+appointment_url: []
 contact_links:
   - icon: twitter
     icon_pack: fab

@@ -11,7 +11,7 @@ authors:
 - admin
 - Judith Schweppe
 - Marie Hellfritsch
-location: IMPRS Conference, Nijmegen, The Netherlands (Nijmegen, The Netherlands / virtual)
+location: IMPRS Conference (Nijmegen, The Netherlands / virtual)
 
 summary: Poster presentation
 title: Verbal short-term memory without language processing? The role of syntax and morpho-syntax

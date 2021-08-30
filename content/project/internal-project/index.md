@@ -26,5 +26,11 @@ The P600 component of the event-related potential (ERP) is typically observed up
   might be a variant of a more domain-general component (the P3) and thus not reflect a specific linguistic process per se. More specifically, my project
   further tests the hypothesis that – possibly just like the P3 – the P600 might reflect phasic norepinephrine release from the locus coeruleus (LC-NE) to
   motivationally significant stimuli more generally (Sassenhagen et al., 2014; Sassenhagen & Bornkessel-Schlesewsky, 2015; Sassenhagen & Fiebach, 2019). 
-  To this end, I link EEG activity recorded during sentence processing tasks to reaction time and pupillary measures. In addition, one of my studies manipulates
-  noradrenaline release non-invasively via transcutaneous vagus nerve stimulation.
+  To this end, I link EEG activity recorded during sentence processing tasks to reaction time and pupillary measures. In addition, we plan to manipulate
+  noradrenaline release non-invasively via transcutaneous vagus nerve stimulation. My advisers are Milena Rabovsky, Mathias Weymar, and Isabell Wartenburger.
+  
+  To hear more about our studies and first results, visit our talks at the
+  - AMLaP 2021 (September 4, 2.15-3.15 pm CEST)
+  - SNL 2021 (October 7, 3-5 pm CEST)
+  
+  

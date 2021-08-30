@@ -5,12 +5,11 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   eu, pulvinar tempor diam.
 
 
-date: "2018-05-24T13:00:00Z"
-date_end: "2018-05-26T15:00:00Z"
-event: Harmonious Bilingual Network Colloquium
+date: "2018-05-24T"
+date_end: "2018-05-26T"
 featured: false
 
-location: La Hulpe, Belgium
+location: Harmonious Bilingual Network Colloquium (La Hulpe, Belgium)
 projects:
 - internal-project
 summary: An example talk using Wowchemy's Markdown slides feature.

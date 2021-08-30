@@ -6,7 +6,7 @@ tags:
 - P600
 - P3
 - ERP
-- pupillomtry
+- pupillometry
 - tVNS
 title: The P600, P3, and phasic noradrenaline release
 url_code: ""

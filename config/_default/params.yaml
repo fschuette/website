@@ -22,8 +22,9 @@ twitter: ''
 email: []
 phone: []
 address:
-  street: Karl-Liebknecht-Str. 24/25
+  street: University of Potsdam, Dep. of Psychology, Karl-Liebknecht-Str. 24/25
   city: Potsdam
+  region: []
   postcode: '14476'
   country: Germany
   country_code: Germany

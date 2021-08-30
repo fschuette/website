@@ -7,7 +7,9 @@ date_end: "2018-05-26"
 all_day: true
 featured: false
 
-authors: "Friederike Schütte, Annick De Houwer"
+authors: 
+- admin
+- Annick De Houwer
 location: Harmonious Bilingual Network Colloquium (La Hulpe, Belgium)
 
 summary: Poster presentation

@@ -5,8 +5,8 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   eu, pulvinar tempor diam.
 
 
-date: "2018-05-24T"
-date_end: "2018-05-26T"
+date: "2018-05-24"
+date_end: "2018-05-26"
 featured: false
 
 location: Harmonious Bilingual Network Colloquium (La Hulpe, Belgium)

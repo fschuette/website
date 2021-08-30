@@ -10,7 +10,7 @@ abstract: In the classic view of verbal short-term memory, immediate recall is a
   two modified replications of Perham et al.s study, we presented lists of three pairs of adjectives and nouns, presented in
   adjective–noun or in noun–adjective order. In addition, we manipulated morphosyntactic congruence between nouns and
   adjectives within pairs (Congruently inflected vs. uninflected adjectives in Exp. 1, Congruently inflected vs. incongruently
-  inflected adjectives in Exp. 2). Both experiments show an interaction: Word order affected recall performance only when adjectives were
+  inflected adjectives in Exp. 2). Both experiments show an interaction, word order affected recall performance only when adjectives were
   inflected in congruence with the corresponding noun. These findings are in line with language-based models and indicate that, in
   a language that determines grammaticality in an interplay of syntactic and morphosyntactic factors, word order alone is not
   sufficient to improve verbal short-term memory.

@@ -13,7 +13,6 @@ authors:
 location: Harmonious Bilingual Network Colloquium (La Hulpe, Belgium)
 
 summary: Poster presentation
-tags: poster
 title: Production and comprehension of translation equivalents in 24 months old bilingual toddlers - An investigation on the basis of M-CDI and FRAKIS data
 
 ---

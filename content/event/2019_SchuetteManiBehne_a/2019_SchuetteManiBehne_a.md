@@ -2,8 +2,8 @@
 abstract: []
 
 
-date: "2019-09-09"
-date_end: "2019-09-12"
+date: "2019-10-17"
+date_end: "2019-10-19"
 all_day: true
 featured: false
 
@@ -11,9 +11,9 @@ authors:
 - admin
 - Nivedita Mani
 - Tanya Behne
-location: paEpsy (Leipzig, Germany)
+location: Bi-Ennial Conference of the Cognitive Development Society (Louisville, Kentucky, United States)
 
-summary: Talk within the symposium on “Preschoolers selective trust in different contexts”
-title: Retrospective inferences in selective trust
+summary: Poster presentation
+title: Preschoolers Make Retrospective Inferences in Their Selective Trust Choices
 
 ---

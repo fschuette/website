@@ -1,9 +1,9 @@
 ---
-bio: My research interests include neurocognition of language, sentence comprehension, and verbal working memory.
+bio: My research interests include the neurocognition of language and meaning, sentence comprehension, and verbal working memory.
 education:
   courses:
   - course: M.A in Applied Linguistics - Acquisition, Processing, & Use of Language
-    institution: Erfurt University, Germany
+    institution: University of Erfurt, Germany
     year: 2018
   - course: B.A. in Cultural Studies and Sciences
     institution: European University Viadrina, Frankfurt (Oder), Germany
@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: Cognitive Neuroscience Lab, University of Potsdam
   url: https://www.uni-potsdam.de/de/cogneuro/index
-role: PhD student
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -45,6 +45,6 @@ superuser: true
 title: Friederike Schütte
 ---
 
-I am curious about how language is intertwined with other aspects of human cognition. This question goes in both directions: How do other phenomena, like verbal memory, inherently rely on linguistic representations? And at the same time: How do language comprehension and production rely upon on and exploit other cognitive processes, such as attention and executive control?
+I am curious how language is intertwined with other aspects of human cognition. This question goes in both directions: How do other phenomena, like verbal memory, inherently rely on linguistic representations? And at the same time: How do language comprehension and production exploit other cognitive processes, such as attention and executive control?
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.

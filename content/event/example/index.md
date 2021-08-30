@@ -1,8 +1,5 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract: []
 
 
 date: "2018-05-24"
@@ -10,9 +7,10 @@ date_end: "2018-05-26"
 all_day: true
 featured: false
 
-location: Harmonious Bilingual Network Colloquium (La Hulpe, Belgium)
+event: Harmonious Bilingual Network Colloquium
+location: La Hulpe, Belgium
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Poster presentation
 tags: poster
 title: Production and comprehension of translation equivalents in 24 months old bilingual toddlers - An investigation on the basis of M-CDI and FRAKIS data
 

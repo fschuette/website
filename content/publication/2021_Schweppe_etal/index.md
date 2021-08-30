@@ -4,10 +4,10 @@ abstract: In the classic view of verbal short-term memory, immediate recall is a
   material is inherently bound to language production and comprehension, thus also influenced by semantic or syntactic factors. In
   line with this, serial recall is better when lists are presented in a canonical word order for English rather than in a noncanonical
   order (e.g., when adjectives precede nouns rather than vice versa, Perham et al., 2009, Quarterly Journal of Experimental
-  Psychology, 62[7], 1285–1293). However, in many languages, grammaticality is not exclusively determined by word order.
+  Psychology, 62, 7, 1285–1293). However, in many languages, grammaticality is not exclusively determined by word order.
   In German, an adjective–noun sequence is grammatical only if the adjective is inflected in congruence with the nouns person,
   number, and grammatical gender. Therefore, we investigated whether similar effects of syntactic word order occur in German. In
-  two modified replications of Perham et al.'s study, we presented lists of three pairs of adjectives and nouns, presented in
+  two modified replications of Perham et al.s study, we presented lists of three pairs of adjectives and nouns, presented in
   adjective–noun or in noun–adjective order. In addition, we manipulated morphosyntactic congruence between nouns and
   adjectives within pairs (Congruently inflected vs. uninflected adjectives in Exp. 1, Congruently inflected vs. incongruently
   inflected adjectives in Exp. 2). Both experiments show an interaction: Word order affected recall performance only when adjectives were

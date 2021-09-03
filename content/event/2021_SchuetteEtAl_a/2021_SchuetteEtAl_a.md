@@ -12,9 +12,9 @@ authors:
 - Isabell Wartenburger
 - Mathias Weymar
 - Milena Rabovsky
-location:  Architectures and Mechanisms for Language Processing (AMLaP) Conference (Paris, France / virtual)
+location: Architectures and Mechanisms for Language Processing (AMLaP) Conference (Paris, France / virtual)
 
-summary: Short talk (accepted)
+summary: Short talk
 title: Is the P600 linked to phasic noradrenaline release? Relating ERPs to pupil size in a sentence processing paradigm
 
 ---

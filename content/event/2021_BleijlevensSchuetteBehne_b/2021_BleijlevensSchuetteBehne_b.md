@@ -13,7 +13,7 @@ authors:
 - Tanya Behne
 location: 28th Conference of the European Society for Philosophy and Psychology (Leipzig, Germany / virtual)
 
-summary: Poster presentation (accepted)
+summary: Poster presentation
 title: Do pragmatic inferences aid word learning in young children and adults? 
 
 ---

@@ -50,4 +50,4 @@ title: Friederike Schütte
 
 I am curious how language is intertwined with other aspects of human cognition. This question goes in both directions: How do other phenomena, like verbal memory, inherently rely on linguistic representations? And at the same time: How do language comprehension and production exploit other cognitive processes, such as attention and executive control?
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_ENG_Schuette_website_211003.pdf" "newtab" >}}CV{{< /staticref >}}.

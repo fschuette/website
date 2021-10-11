@@ -14,7 +14,7 @@ authors:
 - Milena Rabovsky
 location: 13th annual meeting of the Society of the Neurobiology of Language (virtual)
 
-summary: Slide slam presentation (accepted)
+summary: Slide slam presentation
 title: The P600, but not the N400, is modulated by sustained attention
 
 ---

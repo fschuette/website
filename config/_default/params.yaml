@@ -40,6 +40,11 @@ contact_links:
     name: LinguaFriede
     link: 'https://twitter.com/LinguaFriede'
 
+content:
+  form:
+    provider: netlify
+    netlify:
+      captcha: true
 # Site header
 
 main_menu:

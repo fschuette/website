@@ -1,7 +1,7 @@
 ---
 authors:
 - Thomas Hans Fritz
-- admin
+- Friederike Schütte
 - Agnes Steixner
 - Oliver Contier
 - Hellmuth Obrig

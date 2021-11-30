@@ -1,7 +1,7 @@
 ---
 
 authors:
-- admin
+- Friederike Schütte
 - Nivedita Mani
 - Tanya Behne
 date: "2020"

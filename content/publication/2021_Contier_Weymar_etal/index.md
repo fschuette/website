@@ -17,7 +17,7 @@ summary: lorem ipsum.
 
 tags:
 - Source Themes
-title: "The P600, but not N400, is modulated by sustained attention"
+title: "The P600, but not the N400, is modulated by sustained attention"
 url_pdf: https://www.biorxiv.org/content/10.1101/2021.11.18.469143v1.full.pdf
 ---
 

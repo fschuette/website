@@ -18,6 +18,7 @@ interests:
 - Sentence comprehension
 - Event-related potentials
 - Verbal working memory
+- (Early) word learning
 organizations:
 - name: Cognitive Neuroscience Lab, University of Potsdam
   url: https://www.uni-potsdam.de/de/cogneuro/index

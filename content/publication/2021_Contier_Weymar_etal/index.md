@@ -5,7 +5,7 @@ authors:
 - Isabell Wartenburger
 - Milena Rabovsky
 date: "2021"
-doi: "10.3758/s13421-021-01203-z"
+doi: "10.1101/2021.11.18.469143"
 featured: false
 publication: '*bioRxiv*'
 publication_short: ""
@@ -18,7 +18,6 @@ summary: lorem ipsum.
 tags:
 - Source Themes
 title: "The P600, but not N400, is modulated by sustained attention"
-url_code: "https://www.biorxiv.org/content/10.1101/2021.11.18.469143v1"
 url_pdf: https://www.biorxiv.org/content/10.1101/2021.11.18.469143v1.full.pdf
 ---
 

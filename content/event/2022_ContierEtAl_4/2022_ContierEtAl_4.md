@@ -15,6 +15,6 @@ authors:
 location: 14th annual meeting of the Society of the Neurobiology of Language, Philadelphia, US
 
 summary: Poster presentation
-title: Phasic norepinephrine release during sentence comprehension? Influence of transcutaneous auricular vagus nerve stimulation on the P600.
+title: Phasic NE release during sentence comprehension? Influence of transcutaneous auricular vagus nerve stimulation on the P600.
 
 ---

@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://friederikeschuette.netlify.app/sitemap.xml

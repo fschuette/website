@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Judith Schweppe | Friederike Schütte</title>
+    <link>https://friederikeschuette.netlify.app/author/judith-schweppe/</link>
+      <atom:link href="https://friederikeschuette.netlify.app/author/judith-schweppe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Judith Schweppe</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://friederikeschuette.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Judith Schweppe</title>
+      <link>https://friederikeschuette.netlify.app/author/judith-schweppe/</link>
+    </image>
+    
+    <item>
+      <title>Syntax, morphosyntax, and serial recall: How language supports short-term memory</title>
+      <link>https://friederikeschuette.netlify.app/publication/2021_schweppe_etal/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://friederikeschuette.netlify.app/publication/2021_schweppe_etal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntax, morphosyntax, and serial recall - How language supports short-term memory for order</title>
+      <link>https://friederikeschuette.netlify.app/talk/syntax-morphosyntax-and-serial-recall-how-language-supports-short-term-memory-for-order/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://friederikeschuette.netlify.app/talk/syntax-morphosyntax-and-serial-recall-how-language-supports-short-term-memory-for-order/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verbal short-term memory without language processing? The role of syntax and morpho-syntax</title>
+      <link>https://friederikeschuette.netlify.app/talk/verbal-short-term-memory-without-language-processing-the-role-of-syntax-and-morpho-syntax/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://friederikeschuette.netlify.app/talk/verbal-short-term-memory-without-language-processing-the-role-of-syntax-and-morpho-syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immediate serial recall at the transition from unrelated word lists to sentences</title>
+      <link>https://friederikeschuette.netlify.app/talk/immediate-serial-recall-at-the-transition-from-unrelated-word-lists-to-sentences/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://friederikeschuette.netlify.app/talk/immediate-serial-recall-at-the-transition-from-unrelated-word-lists-to-sentences/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

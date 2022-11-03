@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Friederike Schütte</title>
+    <link>https://friederikeschuette.netlify.app/publication/</link>
+      <atom:link href="https://friederikeschuette.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://friederikeschuette.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://friederikeschuette.netlify.app/publication/</link>
+    </image>
+    
+    <item>
+      <title>Syntax, morphosyntax, and serial recall: How language supports short-term memory</title>
+      <link>https://friederikeschuette.netlify.app/publication/2021_schweppe_etal/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://friederikeschuette.netlify.app/publication/2021_schweppe_etal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrospective inferences in selective trust</title>
+      <link>https://friederikeschuette.netlify.app/publication/2020_schuette_mani_behne/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://friederikeschuette.netlify.app/publication/2020_schuette_mani_behne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musical meaning modulates word acquisition</title>
+      <link>https://friederikeschuette.netlify.app/publication/2019_fritz_etal/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://friederikeschuette.netlify.app/publication/2019_fritz_etal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

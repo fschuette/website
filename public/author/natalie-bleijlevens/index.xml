@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natalie Bleijlevens | Friederike Schütte</title>
+    <link>https://friederikeschuette.netlify.app/author/natalie-bleijlevens/</link>
+      <atom:link href="https://friederikeschuette.netlify.app/author/natalie-bleijlevens/index.xml" rel="self" type="application/rss+xml" />
+    <description>Natalie Bleijlevens</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://friederikeschuette.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Natalie Bleijlevens</title>
+      <link>https://friederikeschuette.netlify.app/author/natalie-bleijlevens/</link>
+    </image>
+    
+    <item>
+      <title>Do pragmatic inferences aid word learning in young children and adults?</title>
+      <link>https://friederikeschuette.netlify.app/talk/do-pragmatic-inferences-aid-word-learning-in-young-children-and-adults/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://friederikeschuette.netlify.app/talk/do-pragmatic-inferences-aid-word-learning-in-young-children-and-adults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of object novelty and pragmatic reasoning in referent selection and retention</title>
+      <link>https://friederikeschuette.netlify.app/talk/the-role-of-object-novelty-and-pragmatic-reasoning-in-referent-selection-and-retention/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://friederikeschuette.netlify.app/talk/the-role-of-object-novelty-and-pragmatic-reasoning-in-referent-selection-and-retention/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathias Weymar | Friederike Schütte</title>
+    <link>https://friederikeschuette.netlify.app/author/mathias-weymar/</link>
+      <atom:link href="https://friederikeschuette.netlify.app/author/mathias-weymar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mathias Weymar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://friederikeschuette.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Mathias Weymar</title>
+      <link>https://friederikeschuette.netlify.app/author/mathias-weymar/</link>
+    </image>
+    
+    <item>
+      <title>The P600, but not the N400, is modulated by sustained attention</title>
+      <link>https://friederikeschuette.netlify.app/talk/the-p600-but-not-the-n400-is-modulated-by-sustained-attention/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://friederikeschuette.netlify.app/talk/the-p600-but-not-the-n400-is-modulated-by-sustained-attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is the P600 linked to phasic noradrenaline release? Relating ERPs to pupil size in a sentence processing paradigm</title>
+      <link>https://friederikeschuette.netlify.app/talk/is-the-p600-linked-to-phasic-noradrenaline-release-relating-erps-to-pupil-size-in-a-sentence-processing-paradigm/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://friederikeschuette.netlify.app/talk/is-the-p600-linked-to-phasic-noradrenaline-release-relating-erps-to-pupil-size-in-a-sentence-processing-paradigm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

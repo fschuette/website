@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P600 | Friederike Schütte</title>
+    <link>https://friederikeschuette.netlify.app/tag/p600/</link>
+      <atom:link href="https://friederikeschuette.netlify.app/tag/p600/index.xml" rel="self" type="application/rss+xml" />
+    <description>P600</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://friederikeschuette.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>P600</title>
+      <link>https://friederikeschuette.netlify.app/tag/p600/</link>
+    </image>
+    
+    <item>
+      <title>The P600, P3, and phasic noradrenaline release</title>
+      <link>https://friederikeschuette.netlify.app/project/phdproject_p600/phdproject_p600/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://friederikeschuette.netlify.app/project/phdproject_p600/phdproject_p600/</guid>
+      <description>&lt;p&gt;The P600 component of the event-related potential (ERP) is typically observed upon grammaticality violations, reversal anomalies, and syntactic ambiguities when
+reading or listening to sentences. It is often interpreted as a signal of specific linguistic syntactic and combinatorial operations and continues to inform
+neurocognitive models of language comprehension. However, its underlying process is still not agreed upon.&lt;/p&gt;
+&lt;p&gt;My PhD project aims to contribute to the current debate about how much the cognitive process underlying the P600 is tied to attention and cognitive control
+and whether it might be a variant of a more domain-general component (the P3) and thus not reflect a specific linguistic process per se. More specifically, my
+project further tests the hypothesis that – possibly just like the P3 – the P600 might reflect phasic norepinephrine release from the locus coeruleus to
+motivationally significant stimuli more generally (Sassenhagen et al., 2014; Sassenhagen &amp;amp; Bornkessel-Schlesewsky, 2015; Sassenhagen &amp;amp; Fiebach, 2019).
+To this end, I link EEG activity recorded during sentence processing tasks to reaction time and pupillary measures. In addition, we plan to manipulate
+noradrenaline release non-invasively via transcutaneous vagus nerve stimulation. My advisers are Milena Rabovsky, Mathias Weymar, and Isabell Wartenburger.&lt;/p&gt;
+&lt;p&gt;To hear more about our studies and first results, visit our talks at the&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AMLaP 2021 (September 4, 2.15-3.15 pm CEST)&lt;/li&gt;
+&lt;li&gt;SNL 2021 (October 7, 3-5 pm CEST)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

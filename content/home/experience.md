@@ -28,7 +28,7 @@ experience:
     location: Potsdam, Germany
     date_start: '2020-08-01'
     date_end: []
-    description: In my PhD, I further investigate the P600 ERP component (see Contier et al., 2022 and further info in Projects) , see Projects. Supervised by Milena Rabovsky, Mathias Weymar, and Isabell Wartenburger.
+    description: In my PhD, I further investigate the P600 ERP component (see Contier et al., 2022 and further info in Projects). Supervised by Milena Rabovsky, Mathias Weymar, and Isabell Wartenburger.
 
   - title: PhD Student & Research Associate
     company: Cognitive Development lab, University of Göttingen

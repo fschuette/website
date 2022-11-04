@@ -17,7 +17,7 @@ summary: lorem ipsum.
 
 tags:
 - Source Themes
-title: "The P600, but not the N400, is modulated by sustained attention"
+title: "Sustained Attention as Measured by Reaction Time Variability Is a Strong Modulator for the P600, but Not the N400"
 url_pdf: https://direct.mit.edu/jocn/article-abstract/34/12/2297/113156/Sustained-Attention-as-Measured-by-Reaction-Time?redirectedFrom=fulltext
 ---
 

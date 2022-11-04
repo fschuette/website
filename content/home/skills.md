@@ -16,12 +16,12 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: EEG (ERPs), behavioral testing, eye-tracking/pupillometry, language screenings
+- description: EEG (ERPs), behavioral testing, eye-tracking/pupillometry, language screenings, transcutanous auricular vagus nerve stimulation
   name: Methods
 - description: PsychToolBox, E-Prime, Experiment Builder
   name: Exp. stimulus presentation
 - description: IBM SPSS Statistics, JASP
-  name: Statistical software
+  name: Statistical software & programming
 - description: R (experimental data pre-processing & analyses, using e.g., mixed regression models), Matlab (stimulus presentation & data processing for eye-tracking and EEG experiments)
   name: Programming
 - description: English (fluent), German (native), Spanish (fair), Swedish (beginner), German Sign Language (beginner)

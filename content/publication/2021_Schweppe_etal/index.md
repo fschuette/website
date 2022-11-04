@@ -10,7 +10,7 @@ authors:
 date: "2021"
 doi: "10.3758/s13421-021-01203-z"
 featured: false
-publication: '*Memory and Cognition*'
+publication: '*Memory and Cognition, 50*'
 publication_short: ""
 publication_types:
 - "2"

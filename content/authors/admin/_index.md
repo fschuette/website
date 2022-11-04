@@ -51,4 +51,4 @@ title: Friederike Contier (née Schütte)
 
 I am curious how language processing is intertwined with other aspects of human cognition. This question goes in both directions: How do other phenomena, like verbal working memory, inherently rely on linguistic representations? And at the same time: How do language comprehension and production exploit other cognitive processes, such as attention and executive control?
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/FContier_CV.pdf" "newtab" >}}CV{{< /staticref >}}.

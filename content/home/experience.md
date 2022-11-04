@@ -28,21 +28,21 @@ experience:
     location: Potsdam, Germany
     date_start: '2020-08-01'
     date_end: []
-    description: For details on my current work, see Projects. Supervised by Milena Rabovsky, Mathias Weymar, and Isabell Wartenburger.
+    description: In my PhD, I further investigate the P600 ERP component (see Contier et al., 2022 and further info in Projects) , see Projects. Supervised by Milena Rabovsky, Mathias Weymar, and Isabell Wartenburger.
 
   - title: PhD Student & Research Associate
     company: Cognitive Development lab, University of Göttingen
     location: Göttingen, Germany
     date_start: '2018-10-01'
     date_end: '2020-07-31'
-    description: Conducted behavioral experiments on children's early word learning. Specifically, the project focused on how children learn selectively from reliable rather than unreliable speakers (see Schütte, Mani, & Behne, 2020). Supervised by Tanya Behne & Nivedita Mani.
+    description: Behavioral experiments on children's early word learning. The project focused on how children learn selectively from reliable rather than unreliable speakers (see Schütte, Mani, & Behne, 2020). Supervised by Tanya Behne & Nivedita Mani.
         
   - title: Research Associate
     company: Department of Cognitive and Instructional Psychology, University of Erfurt
     location: Erfurt, Germany
     date_start: '2018-07-01'
     date_end: '2018-09-30'
-    description: Finished an experimental series on the role of linguistic long-term representations on verbal short-term memory (see recent publication by Schweppe, Schütte et al., 2021). Supervised by Judith Schweppe.
+    description: Finished an experimental series on the role of linguistic long-term representations on verbal short-term memory (see  Schweppe, Schütte et al., 2021). Supervised by Judith Schweppe.
     
   - title: Research Assistant
     company: Department of Language Acquisition and Multilingualism, University of Erfurt
@@ -75,14 +75,14 @@ experience:
     location: Nijmegen, The Netherlands
     date_start: '2017-04-01'
     date_end: '2017-06-30'
-    description: Designed & conducted a study on how perspective-taking influences language comprehension. Supervised by Shiri Lev-Ari.
+    description: Designed & conducted a study on how (visual) perspective-taking influences language comprehension. Supervised by Shiri Lev-Ari.
     
   - title: Visiting Researcher
     company: Max Planck Institute for Human Cognitive and Brain Sciences
     location: Leipzig, Germany
     date_start: '2014-08-01'
     date_end: '2015-05-31'
-    description: Designed & conducted an experiment investigating how musical "semantics" support novel word learning (see Fritz et al., 2019). Supervised by Tom Fritz.
+    description: Designed & conducted an experiment investigating how musical "semantics" support novel word learning (see Fritz et al., 2019). Supervised by Tom H. Fritz.
     
   - title: Student Assistant
     company: Department of Pragmatics and Contrastive Linguistics, European University Viadrina

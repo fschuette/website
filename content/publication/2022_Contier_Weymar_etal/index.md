@@ -18,6 +18,6 @@ summary: lorem ipsum.
 tags:
 - Source Themes
 title: "Sustained Attention as Measured by Reaction Time Variability Is a Strong Modulator for the P600, but Not the N400"
-url_pdf: https://direct.mit.edu/jocn/article-abstract/34/12/2297/113156/Sustained-Attention-as-Measured-by-Reaction-Time?redirectedFrom=fulltext
+url_pdf: https://www.biorxiv.org/content/10.1101/2021.11.18.469143v2
 ---
 

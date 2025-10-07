@@ -27,15 +27,15 @@ experience:
     company: Cognitive Neuroscience Lab, University of Potsdam
     location: Potsdam, Germany
     date_start: '2025-05-22'
-    date_end:
-    description: 
+    date_end:''
+    description: Research on the P600 and domain-general mechanisms in sentence comprehension
     
 - title: PhD Student & Research Associate
     company: Cognitive Neuroscience Lab, University of Potsdam
     location: Potsdam, Germany
     date_start: '2020-08-01'
     date_end: '2025-04-21'
-    description: In my PhD, I further investigate the P600 ERP component (see Contier et al., 2022 and further info in Projects). Supervised by Milena Rabovsky, Mathias Weymar, and Isabell Wartenburger.
+    description: In my PhD, I further investigate the P600 ERP component (see Contier et al., 2022, 2024, 2025). Supervised by Milena Rabovsky, Mathias Weymar, and Isabell Wartenburger.
 
   - title: PhD Student & Research Associate
     company: Cognitive Development Lab, University of Göttingen

@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-- title: Postdoctoral researcher
+  - title: Postdoctoral Researcher
     company: Cognitive Neuroscience Lab, University of Potsdam
     location: Potsdam, Germany
-    date_start: '2025-05-22'
-    date_end:''
-    description: Research on the P600 and domain-general mechanisms in sentence comprehension
-    
-- title: PhD Student & Research Associate
+    date_start: '2020-04-22'
+    date_end: ''
+    description: Further research on the P600 and domain-general mechanisms in language comprehension
+
+  - title: PhD Student & Research Associate
     company: Cognitive Neuroscience Lab, University of Potsdam
     location: Potsdam, Germany
     date_start: '2020-08-01'

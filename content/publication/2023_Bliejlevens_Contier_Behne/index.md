@@ -7,7 +7,7 @@ authors:
 date: "2023"
 doi: "/10.1111/desc.13363"
 featured: false
-publication: '*Developmental Science*'
+publication: '*Developmental Science 26* (4)'
 publication_short: ""
 publication_types:
 - "2"

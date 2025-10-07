@@ -2,6 +2,9 @@
 bio: My research interests include the neurocognition of language and meaning, sentence comprehension, and verbal working memory.
 education:
   courses:
+  - course: PhD in Psychology
+    institution: University of Potsdam, Germany
+    year: 2025
   - course: M.A in Applied Linguistics - Acquisition, Processing, & Use of Language
     institution: University of Erfurt, Germany
     year: 2018
@@ -22,7 +25,7 @@ interests:
 organizations:
 - name: Cognitive Neuroscience Lab, University of Potsdam
   url: https://www.uni-potsdam.de/de/cogneuro/index
-role: PhD Student
+role: Postdoctoral researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,7 +49,7 @@ social:
   icon_pack: fab
   link: https://orcid.org/0000-0002-1771-8399
 superuser: true
-title: Friederike Contier (née Schütte)
+title: Friederike Contier
 ---
 
 I am curious how language processing is intertwined with other aspects of human cognition. This question goes in both directions: How do other phenomena, like verbal working memory, inherently rely on linguistic representations? And at the same time: How do language comprehension and production exploit other cognitive processes, such as attention and executive control?

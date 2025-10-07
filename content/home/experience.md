@@ -23,15 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: PhD Student & Research Associate
-    company: Cognitive Neuroscience lab, University of Potsdam
+- title: Postdoctoral researcher
+    company: Cognitive Neuroscience Lab, University of Potsdam
+    location: Potsdam, Germany
+    date_start: '2025-05-22'
+    date_end: ''
+    
+- title: PhD Student & Research Associate
+    company: Cognitive Neuroscience Lab, University of Potsdam
     location: Potsdam, Germany
     date_start: '2020-08-01'
-    date_end: []
+    date_end: '2025-04-21'
     description: In my PhD, I further investigate the P600 ERP component (see Contier et al., 2022 and further info in Projects). Supervised by Milena Rabovsky, Mathias Weymar, and Isabell Wartenburger.
 
   - title: PhD Student & Research Associate
-    company: Cognitive Development lab, University of Göttingen
+    company: Cognitive Development Lab, University of Göttingen
     location: Göttingen, Germany
     date_start: '2018-10-01'
     date_end: '2020-07-31'

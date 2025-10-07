@@ -17,7 +17,7 @@ summary: lorem ipsum.
 
 tags:
 - Source Themes
-title: "Are the P600 and P3 ERP components linked to the taskevoked pupillary response as a correlate of norepinephrine
+title: "Are the P600 and P3 ERP components linked to the task-evoked pupillary response as a correlate of norepinephrine
 activity?"
 url_pdf: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/psyp.14565
 ---

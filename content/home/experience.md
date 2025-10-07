@@ -27,7 +27,8 @@ experience:
     company: Cognitive Neuroscience Lab, University of Potsdam
     location: Potsdam, Germany
     date_start: '2025-05-22'
-    date_end: ''
+    date_end:
+    description: 
     
 - title: PhD Student & Research Associate
     company: Cognitive Neuroscience Lab, University of Potsdam

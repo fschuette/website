@@ -25,7 +25,7 @@ interests:
 organizations:
 - name: Cognitive Neuroscience Lab, University of Potsdam
   url: https://www.uni-potsdam.de/de/cogneuro/index
-role: Postdoctoral researcher
+role: Postdoctoral Researcher
 social:
 - icon: envelope
   icon_pack: fas

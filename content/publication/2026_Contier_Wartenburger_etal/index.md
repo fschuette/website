@@ -17,7 +17,7 @@ summary: lorem ipsum.
 
 tags:
 - Source Themes
-title: "No effect of continuoustranscutaneous auricular vagus nerve stimulation on the P3, P600, or physiologicalmarkers of noradrenergic activity in an oddball and sentence comprehension task?"
+title: "No effect of continuoustranscutaneous auricular vagus nerve stimulation on the P3, P600, or physiologicalmarkers of noradrenergic activity in an oddball and sentence comprehension task"
 url_pdf: https://onlinelibrary.wiley.com/doi/10.1111/psyp.70258
 ---
 

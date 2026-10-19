@@ -1,5 +1,5 @@
 ---
-bio: My research interests include the neurocognition of language and meaning, sentence comprehension, and verbal working memory.
+bio: I'm a cognitive neuroscientist investigating how language processing interacts with domain-general cognitive mechanisms such as attention, memory, arousal, and prediction. My research combines EEG/ERP, MEG, pupillometry, behavioral modeling, and neuromodulation approaches to study adaptive cognitive processes during language comprehension and cognition.
 education:
   courses:
   - course: PhD in Psychology
@@ -18,10 +18,11 @@ email: ""
 highlight_name: false
 interests:
 - Neurocognition of language & meaning
-- Sentence comprehension
-- Event-related potentials
-- Verbal working memory
-- (Early) word learning
+- Predictive processing and uncertainty 
+- Attention and adaptive control 
+- Neural dynamics of memory and prediction 
+- EEG/MEG, neurophysiology, and computational modeling
+
 organizations:
 - name: Predictive Brain Lab, Donders Institute for Brain, Cognition, and Behaviour
   url: https://www.predictivebrainlab.com/home

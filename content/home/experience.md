@@ -23,18 +23,25 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Postdoctoral Researcher (MSCA-PF)
+    company: Predictive Brain Lab, Donders Institute for Brain, Cognition, and Behaviour
+    location: Nijmegen, The Netherlands
+    date_start: '2026-10-01'
+    date_end: ''
+    description: Investigating prediction under uncertainty in language comprehension
+  
   - title: Postdoctoral Researcher
     company: Cognitive Neuroscience Lab, University of Potsdam
     location: Potsdam, Germany
-    date_start: '2020-04-22'
-    date_end: ''
+    date_start: '2025-02-27'
+    date_end: '2026-09-30'
     description: Further research on the P600 and domain-general mechanisms in language comprehension
 
   - title: PhD Student & Research Associate
     company: Cognitive Neuroscience Lab, University of Potsdam
     location: Potsdam, Germany
     date_start: '2020-08-01'
-    date_end: '2025-04-21'
+    date_end: '2025-02-26'
     description: In my PhD, I further investigate the P600 ERP component (see Contier et al., 2022, 2024, 2025). Supervised by Milena Rabovsky, Mathias Weymar, and Isabell Wartenburger.
 
   - title: PhD Student & Research Associate

@@ -23,9 +23,9 @@ interests:
 - Verbal working memory
 - (Early) word learning
 organizations:
-- name: Cognitive Neuroscience Lab, University of Potsdam
-  url: https://www.uni-potsdam.de/de/cogneuro/index
-role: Postdoctoral Researcher
+- name: Predictive Brain Lab, Donders Institute for Brain, Cognition, and Behaviour
+  url: https://www.predictivebrainlab.com/home
+role: MSCA Postdoctoral Researcher
 social:
 - icon: envelope
   icon_pack: fas
